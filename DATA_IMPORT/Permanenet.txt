@@ -1,0 +1,25 @@
+INC   VARANASI   Ajay Rai   13.89
+BJP   VARANASI   Narendra Modi   62.76
+BJP   VARANASI   Joseph BJ   53.67
+INC   VARANASI   Anuja Chalice Thomas   12.27
+CPM   VARANASI   Jannhavi     13.57
+TMC   BALURGHAT   Asmita Tondal   27.13
+BJP   BALURGHAT   Sukanta Majumder   32.89
+TMC   BALURGHAT   Biplap Mitra   25.4
+CPM   BALURGHAT   Mozammel Haque   14.1
+BJP   MALAPURAM   Dr. Abdul Salam   7.58
+IUML   MALAPURAM   E.T.Mohammed Basheer   50.32
+CPM   MALAPURAM   V Vaseef   39.19
+BJP   BENGALURU CENTRAL   P.C Mohan   54.5
+INC   BENGALURU CENTRAL   Mansoor Ali Khan   38.3
+INC   KOTTAYAM   Francis George   57.53
+CPM   KOTTAYAM   Thomas Chazhikadan   37.44
+BJP   KOTTAYAM   Tushar Vellapally   6.83
+CPM   BALURGHAT   Diyotrim Myntra   16.56
+BJP   MALAPURAM   Ashiley   5.2
+INC   KOTTAYAM   Sagar Flames   55.17
+INC   BALURGHAT   Swarnashish Paanerjee   10.75
+BJP   BALURGHAT   Ritwika Sass Gupta   30.25
+BJP   BENGALURU CENTRAL   Badakrishna CR   48.68
+BJP   MALAPURAM   Tijin Dominic   5.16
+BJP   BENGALURU CENTRAL   Vyshali   51.7
